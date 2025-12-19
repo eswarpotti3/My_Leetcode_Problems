@@ -21,4 +21,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0118-pascals-triangle) |
+## String
+|  |
+| ------- |
+| [1717-maximum-score-from-removing-substrings](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/1717-maximum-score-from-removing-substrings) |
+## Stack
+|  |
+| ------- |
+| [1717-maximum-score-from-removing-substrings](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/1717-maximum-score-from-removing-substrings) |
+## Greedy
+|  |
+| ------- |
+| [1717-maximum-score-from-removing-substrings](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/1717-maximum-score-from-removing-substrings) |
 <!---LeetCode Topics End-->
