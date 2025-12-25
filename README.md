@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/1262-greatest-sum-divisible-by-three) |
 | [3074-apple-redistribution-into-boxes](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/1717-maximum-score-from-removing-substrings) |
 | [3074-apple-redistribution-into-boxes](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -53,4 +55,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1262-greatest-sum-divisible-by-three](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/1262-greatest-sum-divisible-by-three) |
 | [3074-apple-redistribution-into-boxes](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/3075-maximize-happiness-of-selected-children) |
 <!---LeetCode Topics End-->
