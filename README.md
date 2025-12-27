@@ -12,10 +12,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0011-container-with-most-water) |
 | [0118-pascals-triangle](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0118-pascals-triangle) |
 | [0944-delete-columns-to-make-sorted](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0011-container-with-most-water) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/1717-maximum-score-from-removing-substrings) |
