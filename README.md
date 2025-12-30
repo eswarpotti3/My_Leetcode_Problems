@@ -4,11 +4,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0002-add-two-numbers) |
 | [0728-self-dividing-numbers](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0728-self-dividing-numbers) |
 | [0840-magic-squares-in-grid](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0840-magic-squares-in-grid) |
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Two Pointers
 |  |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0756-pyramid-transition-matrix](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0756-pyramid-transition-matrix) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
