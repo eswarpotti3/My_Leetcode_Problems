@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0756-pyramid-transition-matrix](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0756-pyramid-transition-matrix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/1717-maximum-score-from-removing-substrings) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0756-pyramid-transition-matrix](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0756-pyramid-transition-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Sorting
 |  |
@@ -79,5 +81,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0756-pyramid-transition-matrix](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0840-magic-squares-in-grid) |
+## Backtracking
+|  |
+| ------- |
+| [0756-pyramid-transition-matrix](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0756-pyramid-transition-matrix) |
 <!---LeetCode Topics End-->
