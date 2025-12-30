@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0011-container-with-most-water) |
 | [0118-pascals-triangle](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0120-triangle) |
 | [0840-magic-squares-in-grid](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0840-magic-squares-in-grid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0120-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/1262-greatest-sum-divisible-by-three) |
 ## String
 |  |
