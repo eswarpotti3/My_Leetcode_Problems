@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0067-add-binary) |
 | [0728-self-dividing-numbers](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0728-self-dividing-numbers) |
 | [0840-magic-squares-in-grid](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0840-magic-squares-in-grid) |
+| [1390-four-divisors](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/1390-four-divisors) |
 ## Linked List
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1390-four-divisors](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/1390-four-divisors) |
 | [3074-apple-redistribution-into-boxes](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Dynamic Programming
