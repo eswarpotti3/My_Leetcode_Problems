@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0011-container-with-most-water) |
+| [0053-maximum-subarray](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0120-triangle) |
 | [0840-magic-squares-in-grid](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0840-magic-squares-in-grid) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0120-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -104,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0067-add-binary) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
