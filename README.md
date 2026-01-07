@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0728-self-dividing-numbers) |
 | [0840-magic-squares-in-grid](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0840-magic-squares-in-grid) |
 | [1390-four-divisors](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/1390-four-divisors) |
+| [1518-water-bottles](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/1518-water-bottles) |
 ## Linked List
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0067-add-binary) |
+| [1518-water-bottles](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/1518-water-bottles) |
 ## Divide and Conquer
 |  |
 | ------- |
