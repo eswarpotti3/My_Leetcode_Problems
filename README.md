@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0120-triangle) |
 | [0840-magic-squares-in-grid](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0840-magic-squares-in-grid) |
+| [0930-binary-subarrays-with-sum](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0944-delete-columns-to-make-sorted](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Binary Search
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0756-pyramid-transition-matrix](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0840-magic-squares-in-grid) |
+| [0930-binary-subarrays-with-sum](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0930-binary-subarrays-with-sum) |
 ## Backtracking
 |  |
 | ------- |
@@ -117,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0053-maximum-subarray) |
+## Sliding Window
+|  |
+| ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0930-binary-subarrays-with-sum) |
 <!---LeetCode Topics End-->
