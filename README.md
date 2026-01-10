@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0002-add-two-numbers) |
 | [0067-add-binary](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0268-missing-number) |
 | [0728-self-dividing-numbers](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0728-self-dividing-numbers) |
 | [0840-magic-squares-in-grid](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0840-magic-squares-in-grid) |
 | [1390-four-divisors](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/1390-four-divisors) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0120-triangle) |
+| [0268-missing-number](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0268-missing-number) |
 | [0840-magic-squares-in-grid](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0840-magic-squares-in-grid) |
 | [0930-binary-subarrays-with-sum](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0944-delete-columns-to-make-sorted](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0944-delete-columns-to-make-sorted) |
@@ -75,11 +77,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0268-missing-number) |
 | [0756-pyramid-transition-matrix](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0756-pyramid-transition-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0268-missing-number) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/1262-greatest-sum-divisible-by-three) |
 | [3074-apple-redistribution-into-boxes](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -91,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0268-missing-number) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Matrix
 |  |
@@ -100,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0268-missing-number) |
 | [0756-pyramid-transition-matrix](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0840-magic-squares-in-grid) |
 | [0930-binary-subarrays-with-sum](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0930-binary-subarrays-with-sum) |
