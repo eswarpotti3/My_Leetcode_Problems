@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0728-self-dividing-numbers) |
 | [0840-magic-squares-in-grid](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0840-magic-squares-in-grid) |
 | [1248-count-number-of-nice-subarrays](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/1248-count-number-of-nice-subarrays) |
+| [1266-minimum-time-visiting-all-points](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/1390-four-divisors) |
 | [1518-water-bottles](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/1518-water-bottles) |
 ## Linked List
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1248-count-number-of-nice-subarrays](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1266-minimum-time-visiting-all-points](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/1390-four-divisors) |
 | [3074-apple-redistribution-into-boxes](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/3074-apple-redistribution-into-boxes) |
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/1248-count-number-of-nice-subarrays) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
