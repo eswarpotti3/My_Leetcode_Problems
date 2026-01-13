@@ -23,12 +23,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0088-merge-sorted-array](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0088-merge-sorted-array) |
 ## Array
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0055-jump-game) |
+| [0088-merge-sorted-array](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0120-triangle) |
 | [0268-missing-number](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0268-missing-number) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0268-missing-number) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/1262-greatest-sum-divisible-by-three) |
 | [3074-apple-redistribution-into-boxes](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/3074-apple-redistribution-into-boxes) |
