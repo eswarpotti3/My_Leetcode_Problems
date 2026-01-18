@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0055-jump-game) |
+| [0074-search-a-2d-matrix](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0120-triangle) |
@@ -103,11 +104,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0268-missing-number) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Hash Table
