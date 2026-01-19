@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0120-triangle) |
 | [0268-missing-number](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0268-missing-number) |
 | [0840-magic-squares-in-grid](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0840-magic-squares-in-grid) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0120-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/1262-greatest-sum-divisible-by-three) |
 ## String
