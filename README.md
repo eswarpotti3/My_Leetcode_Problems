@@ -155,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0070-climbing-stairs) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/eswarpotti3/My_Leetcode_Problems/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
